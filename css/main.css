@@ -1,0 +1,30 @@
+.row {
+	
+ 
+  display: flex;
+  flex-wrap: wrap;
+align-items:center;
+justify-content: center 
+}
+
+.cols {
+display: inline-block;
+width:400px;
+align-items:center;
+justify-content: center 
+  
+  margin: 5px 5px 5px 5px;
+ 
+}
+
+.text {
+width: 60vw;
+}
+
+.menu {
+ display: inline-block;
+}
+
+.pagination {
+font-size:large;
+}
